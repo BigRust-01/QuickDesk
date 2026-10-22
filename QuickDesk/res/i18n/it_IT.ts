@@ -1257,6 +1257,16 @@
         <source>Refresh failed: </source>
         <translation>Aggiornamento non riuscito: </translation>
     </message>
+    <message>
+        <location filename="../../qml/pages/RemoteControlPage.qml" line="0"/>
+        <source>Permanent Password</source>
+        <translation>Password permanente</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/RemoteControlPage.qml" line="0"/>
+        <source>The permanent password is not in use yet. Restart QuickDesk to apply it.</source>
+        <translation>La password permanente non è ancora in uso. Riavvia QuickDesk per applicarla.</translation>
+    </message>
 </context>
 <context>
     <name>RemoteDesktopView</name>
@@ -1802,6 +1812,86 @@ Frequenza fotogrammi: %3 fps</translation>
         <location filename="../../qml/pages/SettingsPage.qml" line="972"/>
         <source>Skills directory added. Skill host will reload.</source>
         <translation>Cartella delle skill aggiunta. L&apos;host delle skill verrà ricaricato.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>The two passwords do not match</source>
+        <translation>Le due password non coincidono</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>The password must be at least 8 characters long</source>
+        <translation>La password deve contenere almeno 8 caratteri</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>The password can be at most 32 characters long</source>
+        <translation>La password può contenere al massimo 32 caratteri</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Use only letters and digits</source>
+        <translation>Usa solo lettere e numeri</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Unknown error</source>
+        <translation>Errore sconosciuto</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Permanent Password</source>
+        <translation>Password permanente</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Use a fixed password instead of a temporary access code. Type it twice to confirm. 8-32 letters and digits.</source>
+        <translation>Usa una password fissa al posto del codice di accesso temporaneo. Digitala due volte per conferma. Da 8 a 32 lettere e numeri.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>A permanent password is active.</source>
+        <translation>La password permanente è attiva.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>A permanent password is set. Restart QuickDesk to apply it.</source>
+        <translation>È impostata una password permanente. Riavvia QuickDesk per applicarla.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>New password</source>
+        <translation>Nuova password</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Confirm password</source>
+        <translation>Conferma password</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Change Password</source>
+        <translation>Cambia password</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Set Password</source>
+        <translation>Imposta password</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Permanent password saved. Restart QuickDesk to apply it.</source>
+        <translation>Password permanente salvata. Riavvia QuickDesk per applicarla.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Remove Password</source>
+        <translation>Rimuovi password</translation>
+    </message>
+    <message>
+        <location filename="../../qml/pages/SettingsPage.qml" line="0"/>
+        <source>Permanent password removed. A temporary access code will be used.</source>
+        <translation>Password permanente rimossa. Verrà usato un codice di accesso temporaneo.</translation>
     </message>
 </context>
 <context>
